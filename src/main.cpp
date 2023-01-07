@@ -20,7 +20,6 @@
 
 using namespace std;
 
-auto ssid = "TP-LINK_41D52A";
 
 WebServer server(80);
 WiFiServer tcpServer(420);
